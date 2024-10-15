@@ -1,0 +1,24 @@
+#content {
+    border-style: solid;
+    border-radius: 20px;
+    width: fit-content;
+    margin: auto;
+    padding-bottom: 1%;
+    color: rgb(150, 5, 5);
+}
+
+body {
+    background-color: bisque;
+}
+
+#inputs {
+    background-color: rgb(231, 189, 189);
+    padding-top: 10%;
+    padding-bottom: 10%;
+    font-size: 2em;
+}
+
+#pyramid {
+    background-color: rgb(250, 237, 119);
+    font-weight: bold;
+}
